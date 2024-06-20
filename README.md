@@ -7,7 +7,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <ul>
-    <li>MongoDB</li>
+
     <li>React Native</li>
     <li>React TanStack Query for state management</li>
     <li>AsyncStorage for persistent storage</li>
