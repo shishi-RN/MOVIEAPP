@@ -41,7 +41,7 @@ const SignUpScreen: React.FC<FrameProps> = ({ navigation }) => {
 //Handle Login
   const handleLogin = async () => {
     await AsyncStorage.setItem("isLoggedIn", "true");
-    navigation.navigate("Dashboard");
+    navigation.replace("Dashboard");
   };
 
   if (isLoading) {
