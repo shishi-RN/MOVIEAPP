@@ -11,5 +11,7 @@
     <li>AsyncStorage for persistent storage</li>
     <li>React Native Vector Icons</li>
     <li>Axios</li>
+    <li>To start : npx react-native run-android</li>
+    <li>To check performance with release mode : react-native run-android --mode release</li>
   </ul>
 </p>
