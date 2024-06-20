@@ -7,11 +7,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <ul>
-
-    <li>React Native</li>
+  <li>React Persistant Query for state management</li>
     <li>React TanStack Query for state management</li>
     <li>AsyncStorage for persistent storage</li>
     <li>React Native Vector Icons</li>
     <li>Axios</li>
   </ul>
 </p>
+
+
