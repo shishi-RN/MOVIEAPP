@@ -6,7 +6,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <ul>
-  <li>React Persistant Query for state management</li>
+  <li>React Persistant Query for persistant state management</li>
     <li>React TanStack Query for state management</li>
     <li>AsyncStorage for persistent storage</li>
     <li>React Native Vector Icons</li>
