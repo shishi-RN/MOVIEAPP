@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<meta name="cover" content="cover-image" />
+<meta property="ibooks:specified-fonts">true</meta>
+<dc:title>Circus of shapes</dc:title>
+<dc:date>2024-07-20T16:06:55Z</dc:date>
+<dc:language>ar-SA</dc:language>
+<meta property="dcterms:modified">2024-07-20T16:06:55Z</meta>
+<dc:identifier id="bookid">urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b</dc:identifier>
+<!--fixed-layout options-->
+<meta property="rendition:layout">pre-paginated</meta>
+<meta property="rendition:orientation">portrait</meta>
+<meta property="rendition:spread">none</meta>
+</metadata>
+<manifest>
+<item id="x----_--------1" href="page001.xhtml" media-type="application/xhtml+xml" />
+<item id="x----_--------2" href="page002.xhtml" media-type="application/xhtml+xml" />
+<item id="x----_--------3" href="page003.xhtml" media-type="application/xhtml+xml" />
+<item id="x----_--------4" href="page004.xhtml" media-type="application/xhtml+xml" />
+<item id="x----_--------5" href="page005.xhtml" media-type="application/xhtml+xml" />
+<item id="x----_--------6" href="page006.xhtml" media-type="application/xhtml+xml" />
+<item id="x----_--------7" href="page007.xhtml" media-type="application/xhtml+xml" />
+<item id="x----_--------8" href="page008.xhtml" media-type="application/xhtml+xml" />
+<item id="x----_--------9" href="page009.xhtml" media-type="application/xhtml+xml" />
+<item id="x----_--------10" href="page010.xhtml" media-type="application/xhtml+xml" />
+<item id="x----_--------11" href="page011.xhtml" media-type="application/xhtml+xml" />
+<item id="x----_--------12" href="page012.xhtml" media-type="application/xhtml+xml" />
+<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css" />
+<item id="TabshoorDemo.ttf" href="font/TabshoorDemo.ttf" media-type="application/vnd.ms-opentype" />
+<item id="x1.jpg" href="image/1.jpg" media-type="image/jpeg" properties="cover-image" />
+<item id="x18.png" href="image/18.png" media-type="image/png" />
+<item id="x2.png" href="image/2.png" media-type="image/png" />
+<item id="x4.png" href="image/4.png" media-type="image/png" />
+<item id="x6.png" href="image/6.png" media-type="image/png" />
+<item id="PG_1.jpg" href="image/PG_1.jpg" media-type="image/jpeg" />
+<item id="PG_10_rev.jpg" href="image/PG_10_rev.jpg" media-type="image/jpeg" />
+<item id="PG_11.jpg" href="image/PG_11.jpg" media-type="image/jpeg" />
+<item id="PG_2.jpg" href="image/PG_2.jpg" media-type="image/jpeg" />
+<item id="PG_3.jpg" href="image/PG_3.jpg" media-type="image/jpeg" />
+<item id="PG_4.jpg" href="image/PG_4.jpg" media-type="image/jpeg" />
+<item id="PG_5_edited.jpg" href="image/PG_5_edited.jpg" media-type="image/jpeg" />
+<item id="PG_6.jpg" href="image/PG_6.jpg" media-type="image/jpeg" />
+<item id="PG_7.jpg" href="image/PG_7.jpg" media-type="image/jpeg" />
+<item id="PG_8.jpg" href="image/PG_8.jpg" media-type="image/jpeg" />
+<item id="PG_9.jpg" href="image/PG_9.jpg" media-type="image/jpeg" />
+<item id="PG_Cover.jpg" href="image/PG_Cover.jpg" media-type="image/jpeg" />
+</manifest>
+<spine page-progression-direction="rtl">
+<itemref idref="x----_--------1" />
+<itemref idref="x----_--------2" />
+<itemref idref="x----_--------3" />
+<itemref idref="x----_--------4" />
+<itemref idref="x----_--------5" />
+<itemref idref="x----_--------6" />
+<itemref idref="x----_--------7" />
+<itemref idref="x----_--------8" />
+<itemref idref="x----_--------9" />
+<itemref idref="x----_--------10" />
+<itemref idref="x----_--------11" />
+<itemref idref="x----_--------12" />
+</spine>
+</package>
